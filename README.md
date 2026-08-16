@@ -97,20 +97,26 @@ Netflix-Movie-Recommendation-System/
 ├── README.md
 ├── .gitignore
 └── .gitattributes
+```
 
 ## ⚙️ Installation
 
 Clone the repository:
 
+```bash
 git clone https://github.com/gupta-krishna13/Netflix-Movie-Recommendation-System.git
-
+```
 Navigate to the project directory:
 
+```bash
 cd Netflix-Movie-Recommendation-System
+```
 
 Install the required dependencies:
 
+```bash
 pip install -r requirements.txt
+```
 
 
 ## ▶️ Run Locally
