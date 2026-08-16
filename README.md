@@ -127,8 +127,9 @@ streamlit run app.py
 The application will open in your browser.
 
 ## 🔗 Project Links
-Live Demo: https://netflix-movie-recommendation-system-8nwfj4aejsbykwqowvi2pq.streamlit.app/
-GitHub Repository: https://github.com/gupta-krishna13/Netflix-Movie-Recommendation-System
+
+- 🎬 **[Live Demo](https://netflix-movie-recommendation-system-8nwfj4aejsbykwqowvi2pq.streamlit.app/)**
+- 💻 **[GitHub Repository](https://github.com/gupta-krishna13/Netflix-Movie-Recommendation-System)**
 
 ## 👨‍💻 Author
 Krishna Gupta
